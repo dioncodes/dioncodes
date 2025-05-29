@@ -7,7 +7,7 @@ Welcome to my GitHub profile — I'm **Dion**, a full-stack software engineer fr
 ## 💼 About Me
 
 - 🎓 Started programming at 13, developed my first iOS app by 14  
-- 🚀 Co-founded my first startup (fintech) at 23, including developing a large B2C financial platform and other financial products ([difyol.io](https://diyfol.io), [RoboRente](https://roborente.com))
+- 🚀 Co-founded [my first startup](https://within.finance) (fintech) at 23, including developing a large B2C financial platform and other financial products ([difyol.io](https://diyfol.io), [RoboRente](https://roborente.com))
 - 🧠 Studied Applied Computer Science at Universität Duisburg-Essen (80% completed)
 - 💻 Self-employed since 2017, mostly freelancing for agencies and building web & mobile apps for major brands
 - 🌍 Lead developer for a global B2B customer portal since 2018
