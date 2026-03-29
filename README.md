@@ -11,7 +11,6 @@ Welcome to my GitHub profile — I'm **Dion**, a full-stack software engineer fr
 - 🧠 Studied Applied Computer Science at Universität Duisburg-Essen (80% completed)
 - 💻 Self-employed since 2017, mostly freelancing for agencies and building web & mobile apps for major brands
 - 🌍 Lead developer for a global B2B customer portal since 2018
-- 🌇 Currently building [**framr**](https://framr.app), a photography booking platform in the U.S. – don't forget to sign up for the waitlist!
 - 💻 Built [small utility apps](https://tinyapps.de) for macOS with more than 180k downloads (with TinyStopwatch being in the top 25 of utility apps several times)
 
 ---
@@ -39,7 +38,6 @@ Welcome to my GitHub profile — I'm **Dion**, a full-stack software engineer fr
 
 ## 📈 Current Focus
 
-- Building **framr.app** – a marketplace for local photo shoots
 - Exploring opportunities in **NYC tech/startup ecosystems**
 - Open to impactful collaborations and exciting teams
 
